@@ -8,6 +8,10 @@
 # QueensAPI  
 Repositório para construção de uma API experimental com Node js
 
+## Pré-Requisitos
+   * Node Js
+   * MongoDB
+
 ## Instalação
    
    * Primeiramente baixe o arquivo ou clone com o comando git clone
