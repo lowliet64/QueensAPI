@@ -8,6 +8,10 @@
 # QueensAPI  
 Repositório para construção de uma API experimental com Node js
 
+## Objetivo
+
+Construir uma API para cadastro de artigos, juntamente com camada de autenticação 
+  
 ## Pré-Requisitos
    * Node Js
    * MongoDB
