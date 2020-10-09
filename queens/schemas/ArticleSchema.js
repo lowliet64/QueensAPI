@@ -1,11 +1,12 @@
-import { Schema } from 'mongoose'
+
+const mongoose = require('mongoose')
 
 /* Article Schema
 
 */
-const ArticleSchema = new Schema({
+const ArticleSchema = new mongoose.Schema({
     title: String,
     content: String
 });
 
-export default ArticleSchema;
+module.exports = ArticleSchema;
